@@ -2,7 +2,7 @@
 
 **Author**: Ahmed Ait Si Hamou  
 **Role**: Data Analyst  
-**Tools Used**: SQL Server, Python, Tableau, PowerPoint
+**Tools Used**: SQL, Tableau, PowerPoint
 - [Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
 - [Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
 - 📫 `Ahmedaitsihamou1@gmail.com`
