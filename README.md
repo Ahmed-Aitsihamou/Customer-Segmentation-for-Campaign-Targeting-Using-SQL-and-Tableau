@@ -106,3 +106,27 @@ NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 | `At Risk`| Win-back | Feedback surveys, urgency coupons |
 | `New Customers`   | Nurture | Welcome series, 2nd-order incentive |
 | `Others` | Test Engagement | Discounted bundles, newsletter funneling |
+
+---
+
+## 📂 Deliverables
+- ✅ Cleaned dataset for dashboard and analysis
+- ✅ SQL logic for RFM scoring and segmentation
+- ✅ Professional Tableau dashboard
+- ✅ presentation slides
+
+---
+
+## 💼 Skills Demonstrated
+- 🧮 SQL (NTILE, window functions, CASE logic)
+- 📊 Tableau dashboard design and filters
+- 📈 Behavioral segmentation and marketing analytics
+- 📋 presentation slides
+
+---
+
+## 📌 Contact
+Ahmed Ait Si Hamou
+[Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
+[Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
+📫 'Ahmedaitsihamou1@gmail.com'
