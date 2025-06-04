@@ -81,7 +81,7 @@ NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 
 ## 📈 Tableau Dashboard
 🔗 View Interactive Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ahmed.aitsihamou/viz/CustomerSegmentationDashboardForCampaignTargeting/Page1) 
-![Image Alt](https://github.com/Ahmed-Aitsihamou/Customer-Segmentation-for-Campaign-Targeting-Using-SQL-and-Tableau/blob/3148128a5f02831f70c0d1477c47af257f2fb48e/04%20-%20Dashboard%20Pic.png)
+![Dashboard Overview](https://github.com/Ahmed-Aitsihamou/Customer-Segmentation-for-Campaign-Targeting-Using-SQL-and-Tableau/blob/3148128a5f02831f70c0d1477c47af257f2fb48e/04%20-%20Dashboard%20Pic.png)
 **Features:**
 - KPI Summary (Total Revenue, Avg Recency, Frequency)
 - Segment Distribution with % breakdown
