@@ -127,6 +127,6 @@ NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 
 ## 📌 Contact
 Ahmed Ait Si Hamou
-[Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
-[Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
-📫 'Ahmedaitsihamou1@gmail.com'
+- [Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
+- [Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
+- 📫 'Ahmedaitsihamou1@gmail.com'
