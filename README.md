@@ -81,10 +81,28 @@ NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 
 ## 📈 Tableau Dashboard
 🔗 View Interactive Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ahmed.aitsihamou/viz/CustomerSegmentationDashboardForCampaignTargeting/Page1) 
-
 **Features:**
 - KPI Summary (Total Revenue, Avg Recency, Frequency)
 - Segment Distribution with % breakdown
 - Behavioral Profiling (RFM Averages)
 - Demographics: Age Group, Country, Gender
 - Fully Filterable Customer Table (with mini bar charts)
+
+---
+
+## 📊 Key Insights
+- 💡 Champions and Big Spenders represent <10% of customers but contribute the highest revenue
+- 📉 At Risk customers show strong past value but long recency → reactivation priority
+- 👥 26–35 age group dominates high-value segments → age-targeted campaigns have high potential
+- 🌍 Canada and USA have the highest-value customers
+- ⚖️ Gender is balanced → marketing tone can remain neutral
+
+## 📢 Marketing Strategy by Segment
+| Segment         | Goal                                    | Action Plan |
+|--------------------|------------------------------------------------|------------------------------------------------|
+| `Champions`| Retain/Upsell | VIP previews, loyalty gifts, referral bonuses |
+| `Loyal Customers` | Strengthen Loyalty | Tiered perks, surprise incentives |
+| `Big Spenders` | Reactivate | Premium re-engagement offers, concierge |
+| `At Risk`| Win-back | Feedback surveys, urgency coupons |
+| `New Customers`   | Nurture | Welcome series, 2nd-order incentive |
+| `Others` | Test Engagement | Discounted bundles, newsletter funneling |
