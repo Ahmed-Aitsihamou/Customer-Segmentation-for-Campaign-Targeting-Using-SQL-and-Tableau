@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation for Campaign Targeting – OJAR Perfume
 
-**Author**: Ahmed Ait Si Hamou 
-**Role**: Data Analyst 
+**Author**: Ahmed Ait Si Hamou
+**Role**: Data Analyst
 **Tools Used**: SQL, Tableau, PowerPoint
 - [Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
 - [Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
