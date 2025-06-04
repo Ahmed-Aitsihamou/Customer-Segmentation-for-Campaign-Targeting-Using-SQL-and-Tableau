@@ -3,9 +3,9 @@
 **Author**: Ahmed Ait Si Hamou  
 **Role**: Data Analyst  
 **Tools Used**: SQL Server, Tableau, PowerPoint
-**[Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)**
-**[Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)**
-**📫 Ahmedaitsihamou1@gmail.com**
+- [Linkedin](https://www.linkedin.com/in/ahmedaitsihamou/)
+- [Tanleau Public](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)
+- 📫 Ahmedaitsihamou1@gmail.com**
 ---
 
 ## 📎 Project Files & Links
