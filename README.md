@@ -63,10 +63,8 @@ NTILE(5) OVER (ORDER BY recency DESC) AS R_score
 NTILE(5) OVER (ORDER BY frequency ASC) AS F_score
 NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 ```
----
 
 **Segment Mapping Rules:**
-
 
 | Segment         | Rules                                    |
 |--------------------|------------------------------------------------|
