@@ -76,3 +76,15 @@ NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
 | `Others` | Everyone else |
 
 🔗 See full SQL file: [RFM_Segmentation.sql](https://github.com/Ahmed-Aitsihamou/Customer-Segmentation-for-Campaign-Targeting-Using-SQL-and-Tableau/blob/main/03%20-%20Customer%20Segmentation%20for%20Campaign%20Targeting%20Using%20RFM%20Segmentation.sql)
+
+---
+
+## 📈 Tableau Dashboard
+🔗 View Interactive Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ahmed.aitsihamou/viz/CustomerSegmentationDashboardForCampaignTargeting/Page1) 
+
+**Features:**
+- KPI Summary (Total Revenue, Avg Recency, Frequency)
+- Segment Distribution with % breakdown
+- Behavioral Profiling (RFM Averages)
+- Demographics: Age Group, Country, Gender
+- Fully Filterable Customer Table (with mini bar charts)
